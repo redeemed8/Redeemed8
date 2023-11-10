@@ -1,7 +1,7 @@
 <h1 align="center">The way of Salvation is in It </h1>
 <h3 align="center">救赎之道就在其中 </h3>
 
-<h4>:star: give a interpret:</h4>
+<h4>:star: Give a interpret:</h4>
 <i>
 &emsp;&emsp;&emsp;Sometimes I struggle to figure out what the meaning of my life is.
 <br>
@@ -18,6 +18,8 @@
 <br>
 </strong>
 </i>
+
+<h4>:dizzy: Brief introduction:</h4>
 
 
 
