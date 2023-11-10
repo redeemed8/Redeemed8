@@ -1,4 +1,4 @@
-<h1 align="center"><div class="divcss5">The way of Salvation is in It</div></h1>
+<h1 align="center">The way of Salvation is in It </h1>
 <h2>www</h2>
 
 ssdds
