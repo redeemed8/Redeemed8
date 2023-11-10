@@ -22,7 +22,7 @@
 <h4>:dizzy: Brief introduction :</h4>
 &emsp;&emsp;&emsp;<strong>- 💬 blog :</strong> <a href="https://blog.csdn.net/m0_74819547?type=blog">https://blog.csdn.net/m0_74819547?type=blog</a>
 <br>
-&emsp;&emsp;&emsp;<strong>- :bookmark_tabs: leetcode :</strong>
+&emsp;&emsp;&emsp;<strong>- :bookmark_tabs: leetcode :</strong> <a href="https://leetcode.cn/u/1yuan-1ping-kuang-quan-shui/">https://leetcode.cn/u/1yuan-1ping-kuang-quan-shui/</a>
 <br>
 &emsp;&emsp;&emsp;<strong>- :email: email :</strong> <a href="">519282587@qq.com</a>
 <br>
