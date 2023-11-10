@@ -20,7 +20,7 @@
 </i>
 
 <h4>:dizzy: Brief introduction :</h4>
-&emsp;&emsp;&emsp;<strong>- 💬 blog :</strong>
+&emsp;&emsp;&emsp;<strong>- 💬 blog :</strong> <a href="https://blog.csdn.net/m0_74819547?type=blog">https://blog.csdn.net/m0_74819547?type=blog</a>
 <br>
 &emsp;&emsp;&emsp;<strong>- :bookmark_tabs: leetcode :</strong>
 <br>
