@@ -5,8 +5,9 @@
 <br>
 <i>&emsp;&emsp;&emsp;Fruitless, decided to work hard to redeem the meaning of my life to God.<i>
 <br>
-<h4>Sometimes I struggle to figure out what the meaning of my life is.</h4>
-<h4>Fruitless, decided to work hard to redeem the meaning of my life to God.</h4>
+
+  
+<strong>sddd</strong>
 
 
 
