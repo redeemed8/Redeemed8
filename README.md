@@ -1,6 +1,9 @@
 <h1 align="center">The way of Salvation is in It </h1>
 <h3 align="center">救赎之道就在其中 </h3>
 <h4>:star: give a interpret:</h4>
+  Sometimes I struggle to figure out what the meaning of my life is.
+  Fruitless, decided to work hard to redeem the meaning of my life to God.
+
 
 
 
