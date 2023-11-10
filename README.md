@@ -10,12 +10,13 @@
 </i>
   
 <i>
-
+<strong>
+<br>
 &emsp;&emsp;&emsp;有时会苦思冥想, 反复纠结自己人生的意义到底是什么.
 <br>
 &emsp;&emsp;&emsp;无果, 决定以努力拼搏的方式向上帝赎回我人生的意义.
 <br>
-
+</strong>
 </i>
 
 
