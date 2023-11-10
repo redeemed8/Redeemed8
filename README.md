@@ -20,11 +20,11 @@
 </i>
 
 <h4>:dizzy: Brief introduction :</h4>
-&emsp;&emsp;&emsp;<strong>- 💬blog:</strong>
+&emsp;&emsp;&emsp;<strong>- 💬 blog :</strong>
 <br>
-&emsp;&emsp;&emsp;<strong>- :bookmark_tabs:leetcode:</strong>
+&emsp;&emsp;&emsp;<strong>- :bookmark_tabs: leetcode :</strong>
 <br>
-&emsp;&emsp;&emsp;<strong>- :email:email:</strong> <a href="">519282587@qq.com</a>
+&emsp;&emsp;&emsp;<strong>- :email: email :</strong> <a href="">519282587@qq.com</a>
 <br>
 
 
